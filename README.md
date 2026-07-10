@@ -1,6 +1,6 @@
-# ☕ Daily Coding Challenges
+# Leetcode Solution 
 
-Welcome to my **Daily Coding Challenges** repository!
+Welcome to my **Leetcode Solution** repository!
 
 This repository contains my daily coding practice in **Java**, including solutions to LeetCode and other programming challenges. My goal is to improve problem-solving skills, strengthen Data Structures & Algorithms (DSA), and prepare for coding interviews.
 

@@ -1,5 +1,3 @@
-# Daily-Coding-Challenges
-
 # ☕ Daily Coding Challenges
 
 Welcome to my **Daily Coding Challenges** repository!

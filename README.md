@@ -40,3 +40,15 @@ This repository contains my daily coding practice in **Java**, including solutio
 If you find this repository useful, consider giving it a **⭐**.
 
 **Happy Coding! 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

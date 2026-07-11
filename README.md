@@ -35,6 +35,10 @@ This repository contains my daily coding practice in **Java**, including solutio
 - Two Pointers
 - Heap (Priority Queue)
 
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Logesh_0781?theme=dark&font=Karma&ext=contest)
+
 ## ⭐ Support
 
 If you find this repository useful, consider giving it a **⭐**.

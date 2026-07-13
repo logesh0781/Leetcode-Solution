@@ -69,6 +69,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
@@ -79,4 +80,8 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0002-add-two-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

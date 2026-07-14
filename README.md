@@ -61,6 +61,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

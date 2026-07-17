@@ -80,6 +80,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +100,12 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

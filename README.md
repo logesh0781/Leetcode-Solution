@@ -75,6 +75,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0061-rotate-list) |
 ## Binary Search
 |  |
 | ------- |

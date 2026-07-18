@@ -77,6 +77,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0024-swap-nodes-in-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0092-reverse-linked-list-ii) |
 ## Math
 |  |
 | ------- |

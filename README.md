@@ -61,6 +61,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
@@ -99,6 +100,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
 ## Sorting
@@ -113,4 +115,8 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

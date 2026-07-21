@@ -63,6 +63,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -111,6 +113,7 @@ If you find this repository useful, consider giving it a **⭐**.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 ## Simulation
 |  |
@@ -124,8 +127,10 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

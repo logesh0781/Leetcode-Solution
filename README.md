@@ -65,10 +65,12 @@ If you find this repository useful, consider giving it a **⭐**.
 | [0035-search-insert-position](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0035-search-insert-position) |
 | [0414-third-maximum-number](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0704-binary-search) |
+| [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@ If you find this repository useful, consider giving it a **⭐**.
 | ------- |
 | [0002-add-two-numbers](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0258-add-digits) |
+| [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -119,4 +122,8 @@ If you find this repository useful, consider giving it a **⭐**.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/logesh0781/Daily-Coding-Challenges/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
